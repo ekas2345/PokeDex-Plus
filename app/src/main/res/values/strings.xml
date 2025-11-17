@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Pokedex Plus</string>
+    <string name="app_name">PokeDex Plus</string>
+
+    <string name="default_web_client_id">414285267672-aur9u94ofsabti4nin3kmh883p6o4g81.apps.googleusercontent.com</string>
+    <string name="error_not_logged_in">Not logged in</string>
+
+    <string name="welcome_trainer">Welcome Back, Trainer!</string>
+    <string name="auth_required">Authentication Required</string>
+
 </resources>
